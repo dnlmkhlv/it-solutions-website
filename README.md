@@ -1,5 +1,5 @@
 # it-solutions-website-template
-Fully responsive IT solutions company website template built with HTML and CSS.
+Fully responsive simple IT solutions company website template created with HTML and CSS.
 
 ## IT Solutions Website Template
 You can use this IT solutions website as a template for your company's website. This template is designed to be easily customizable, allowing you to add your own content, links, and styling to make your website look unique.
