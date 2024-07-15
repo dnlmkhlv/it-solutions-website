@@ -5,7 +5,7 @@ IT solutions company website template built with HTML and CSS.
 You can use this IT solutions website as a template for your company's website. This template is designed to be easily customizable, allowing you to add your own content, links, and styling to make your website look unique.
 
 ## Live Demo
-Portfolio Site Vercel App: [IT Solutions Website](https://it-solutions-website.vercel.app/)
+IT Solutions Website Vercel App: [IT Solutions Website](https://it-solutions-website.vercel.app/)
 
 ## Features
 - Built with HTML & CSS.
